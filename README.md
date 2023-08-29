@@ -60,11 +60,11 @@
 
 <br />
 
-<h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
+<!-- <h3 align='center'>GitHub Stats&nbsp;&nbsp;📊</h3>
 <p align='center'>
   <img src='https://github.com/nahidsalekin/github-stats-transparent/blob/output/generated/overview.svg'>
   <img src='https://github.com/nahidsalekin/github-stats-transparent/blob/output/generated/languages.svg'>
-</p>
+</p> -->
 
 <br />
 
